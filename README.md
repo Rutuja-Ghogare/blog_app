@@ -1,7 +1,7 @@
 <span style="font-size:16px;">Blog App</span>
 
 _Created a MERN Stack Blog application_
-- You can create your blogs and post them within your profile you can also view the blogs posted by other users view them and find the information of the author
+- You can create your blogs and post them within your profile you can also view the blogs posted by other users view them and find the information of the author.
 - Only the author of the post can edit the post
 - Technologies used:
 * MongoDB
